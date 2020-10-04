@@ -1,0 +1,114 @@
+
+
+  .jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, black, #FAB739);
+    color: black;
+    font-size: 100px;
+    margin: 0;
+  }
+.jumbotron h1 {
+  font-size: 55px
+}
+    body {
+      font-family: "Open Sans", sans-serif;
+      font-weight: bold;
+      color:black
+    }
+    
+    h1, h2, h3, h4, h5 {
+      font-family: "Rowdies", cursive;
+      color: white
+    }
+
+    .whykungfutitle{
+      font-family: "Rowdies";
+      font-size: 60px;
+      align-self: center;
+      padding-bottom: 20px;
+    }
+
+   .whykungfu {
+     color:black ;
+     background-color:rgba(153, 136, 136, 0.8);
+     padding: 20px;
+   }
+
+   .philosophy{
+    background-color:rgba(153, 136, 136, 0.8);
+    padding: 15px
+   }
+    .card-title {
+      font-weight: 500; 
+      font-size: 1.25rem 
+    }
+    
+    .row-content {
+      padding: 50px 0;
+      border-bottom: 1px ridge;
+      min-height: 200px;
+    }
+
+    .jumbotron h2 {
+      color: rgba(212, 16, 16, 0.774); 
+    }
+    .navItem{
+      margin-right: 10px;
+    }
+    
+    .navbar-dark {
+      background-color: black;
+    }
+.appcontainer{
+  background: url(./images/logo.png);
+  background-color: #2b2b2b;
+  background-size: 650px;
+  background-position: 50% 275px;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  opacity: .9;
+}
+
+
+
+.signUp{
+  background-color: rgba(153, 136, 136, 0.356);
+  padding: 20px;
+  padding-top: 100px;
+  padding-bottom: 200px
+}
+
+footer{
+  background-image: linear-gradient(to right, black, #FAB739);
+}
+
+.footerLinks {
+  color:white
+}
+
+.loginheader {
+  background-image: linear-gradient(to right, black, #FAB739);
+}
+
+.loginbody {
+  color: white;
+  background-color: #2b2b2b;
+}
+
+.weekCal {
+  color: white;
+}
+
+table {
+  background-color: rgba(153, 136, 136, 0.356);
+  color: white;
+}
+
+.specialEvents {
+  background-color: rgba(153, 136, 136, 0.356);
+}
+
+.usawkf{
+  color: rgba(212, 16, 16, 0.774); 
+  text-align: center;
+}
